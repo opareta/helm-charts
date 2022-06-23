@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  infra:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-23T14:21:04.565990904Z"
+    description: A Helm chart for Kubernetes
+    digest: 77a51421e6835651e8c83fa939f8f111b9f1c94b688c06b53341356a26c67a50
+    name: infra
+    type: application
+    urls:
+    - https://github.com/opareta/helm-charts/releases/download/infra-0.1.2/infra-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-06-23T14:21:04.565995604Z"
